@@ -5,9 +5,8 @@ import Header from './components/Header.js';
 
 function App() {
   return (
-    <div>
+    <div className='font-bodyFont'>
    <Header/>
-   <h1 className='text-3xl font-bold underline'>hi</h1>
     </div>
   );
 }
